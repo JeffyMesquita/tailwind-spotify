@@ -65,54 +65,60 @@ export default function Home() {
 
           <h1 className="font-semibold text-3xl mt-10">Good Afternoon</h1>
 
-          <div className="grid grid-cols-3 gap-4">
-            <div className="bg-white/10 rounded">
+          <div className="grid grid-cols-3 gap-4 mt-4">
+            <div className="bg-white/10 flex items-center gap-4 rounded overflow-hidden">
               <Image
                 src="/album.jpg"
-                width={80}
-                height={80}
+                width={104}
+                height={104}
                 alt="Capa do album"
               />
+              <strong>Thunder</strong>
             </div>
-            <div className="bg-white/10 rounded">
+            <div className="bg-white/10 flex items-center gap-4 rounded overflow-hidden">
               <Image
                 src="/album.jpg"
-                width={80}
-                height={80}
+                width={104}
+                height={104}
                 alt="Capa do album"
               />
+              <strong>Thunder</strong>
             </div>
-            <div className="bg-white/10 rounded">
+            <div className="bg-white/10 flex items-center gap-4 rounded overflow-hidden">
               <Image
                 src="/album.jpg"
-                width={80}
-                height={80}
+                width={104}
+                height={104}
                 alt="Capa do album"
               />
+              <strong>Thunder</strong>
             </div>
-            <div className="bg-white/10 rounded">
+            <div className="bg-white/10 flex items-center gap-4 rounded overflow-hidden">
               <Image
                 src="/album.jpg"
-                width={80}
-                height={80}
+                width={104}
+                height={104}
                 alt="Capa do album"
               />
+              <strong>Thunder</strong>
             </div>
-            <div className="bg-white/10 rounded">
+            <div className="bg-white/10 flex items-center gap-4 rounded overflow-hidden">
               <Image
                 src="/album.jpg"
-                width={80}
-                height={80}
+                width={104}
+                height={104}
                 alt="Capa do album"
               />
+              <strong>Thunder</strong>
             </div>
-            <div className="bg-white/10 rounded">
+            <div className="bg-white/10 flex items-center gap-4 rounded overflow-hidden">
               <Image
                 src="/album.jpg"
-                width={80}
-                height={80}
+                width={104}
+                height={104}
                 alt="Capa do album"
               />
+              <strong>Thunder</strong>
             </div>
           </div>
         </main>
